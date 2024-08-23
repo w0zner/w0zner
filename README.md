@@ -8,7 +8,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,maven,eclipse,idea,nodejs,mongodb,firebase,postman,postgres)](https://skillicons.dev)
 
 ### Front Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,npm,vscode)](https://skillicons.dev)
+
+### others
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
 <!--
 **w0zner/w0zner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
