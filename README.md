@@ -15,7 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0zner&show_icons=true&theme=dark&locale=es&layout=compact" alt="w0zner" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w0zner&" alt="w0zner" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w0zner&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 
 ## 📬 Ponte en contacto
