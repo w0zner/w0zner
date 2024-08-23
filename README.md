@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0zner&show_icons=true&hide_border=true&locale=es&layout=compact" alt="w0zner" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0zner&show_icons=true&theme=dark&hide_border=true&locale=es&layout=compact" alt="w0zner" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w0zner&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
