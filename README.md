@@ -13,6 +13,8 @@
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=w0zner&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 📬 Ponte en contacto
 
