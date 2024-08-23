@@ -15,7 +15,7 @@
 ## 📬 Contacto
 
 - Conéctate conmigo en  (https://twitter.com/introvertedbot)
-- [LinkedIn] <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" height="30" width="40" /></a>
+- [LinkedIn] <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedint" alt="linkedin"/></a>
 <!--
 **w0zner/w0zner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
