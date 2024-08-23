@@ -10,7 +10,6 @@
 ### Front Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,npm,vscode)](https://skillicons.dev)
 
-### others
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
 <!--
 **w0zner/w0zner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
