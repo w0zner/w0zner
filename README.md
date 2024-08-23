@@ -13,10 +13,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w0zner&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 
-## 📬 Ponte en contacto
+## 📬 Contacto
 
-- Conéctate conmigo en [Twitter] (https://twitter.com/introvertedbot)
-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" height="30" width="40" /></a>
+- Conéctate conmigo en  (https://twitter.com/introvertedbot)
+- <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" height="30" width="40" />[LinkedIn]</a>
 <!--
 **w0zner/w0zner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
