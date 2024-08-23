@@ -1,17 +1,14 @@
 # Hola, mi nombre es Rodrigo Ramírez! 👋
 - 🔭 Soy un apasionado analista y desarrollador de sistemas, impulsado por la curiosidad por la tecnología. Mi viaje implica profundizar en el mundo de la informática, explorar nuevas ideas y compartir mis conocimientos con la comunidad.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=w0zner&theme=noctis_minimus&show_icons=true&hide_border=true&count_private=true)
-
 ## Tech Stack
-### Back
 [![My Skills](https://skillicons.dev/icons?i=java,spring,git,maven,eclipse,idea,nodejs,mongodb,firebase,postman,postgres)](https://skillicons.dev)
 
-### Front
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,npm,vscode)](https://skillicons.dev)
 
-### Others
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=w0zner&theme=noctis_minimus&show_icons=true&hide_border=true&count_private=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0zner&hide_border=true&show_icons=true&theme=dark&locale=es&layout=compact" alt="w0zner" /></p>
 
