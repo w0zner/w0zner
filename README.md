@@ -13,7 +13,7 @@
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0zner&show_icons=true&locale=es&layout=compact" alt="w0zner" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0zner&show_icons=true&theme=radical&locale=es&layout=compact" alt="w0zner" /></p>
 
 
 ## 📬 Ponte en contacto
