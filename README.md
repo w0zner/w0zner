@@ -14,7 +14,7 @@
 
 
 ## 📬 Contacto
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" target="blank">[Linkedin]</a>
+<a href="https://linkedin.com/in/rodrigo-ramirez-3ba652117/" target="blank">[Linkedin]</a>
 <!--
 **w0zner/w0zner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
