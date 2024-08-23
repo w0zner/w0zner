@@ -12,6 +12,11 @@
 
 ### Others
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
+
+
+## 📬 Ponte en contacto
+
+- Conéctate conmigo en [Twitter] (https://twitter.com/introvertedbot)
 <!--
 **w0zner/w0zner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
