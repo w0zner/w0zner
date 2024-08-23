@@ -12,6 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
 
+
 ## 📬 Contacto
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-ramirez-3ba652117/" target="blank">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 <!--
