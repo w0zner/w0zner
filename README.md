@@ -1,5 +1,7 @@
 # Hola, mi nombre es Rodrigo Ramírez! 👋
 - 🔭 Soy un apasionado analista y desarrollador de sistemas, impulsado por la curiosidad por la tecnología. Mi viaje implica profundizar en el mundo de la informática, explorar nuevas ideas y compartir mis conocimientos con la comunidad.
+
+- ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **w0zner/w0zner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
