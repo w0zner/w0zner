@@ -5,12 +5,14 @@ Soy un apasionado analista y desarrollador de sistemas, impulsado por la curiosi
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w0zner&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)-->
 
+<!--https://skillicons.dev-->
+<!--[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,npm,vscode)](https://skillicons.dev)-->
 ## ⚡ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,maven,eclipse,idea,nodejs,mongodb,firebase,postman,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,maven,eclipse,idea,nodejs,mongodb,firebase,postgres)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,npm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,ts,npm,vscode)](#)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,mint)](#)
 
 
 ## 📬 Contacto
